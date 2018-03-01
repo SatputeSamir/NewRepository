@@ -7,6 +7,7 @@ from platform import python_version
 
 print("Samir Satpute")
 print("Super Simple Software")
+print("Vinay nagar Nashik")
 print(python_version())
 
 def add(x,y):
