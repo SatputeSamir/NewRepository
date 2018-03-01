@@ -1,0 +1,7 @@
+'''
+Created on Mar 1, 2018
+
+@author: ADMIN
+'''
+print("Samir")
+num1 = int(input("Enter number"))

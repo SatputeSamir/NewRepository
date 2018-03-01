@@ -1,0 +1,10 @@
+'''
+Created on Mar 1, 2018
+
+@author: ADMIN
+'''
+from lib2to3.pygram import python_grammar
+from platform import python_version
+
+print(python_grammar)
+print(python_version)

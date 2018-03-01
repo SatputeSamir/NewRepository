@@ -1,0 +1,10 @@
+'''
+Created on Mar 1, 2018
+
+@author: ADMIN
+'''
+print("Samir")
+num1 = int(input("Enter number"))
+print(num1)
+
+print(python_version())

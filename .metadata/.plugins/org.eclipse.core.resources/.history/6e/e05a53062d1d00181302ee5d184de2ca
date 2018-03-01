@@ -1,0 +1,11 @@
+'''
+Created on Mar 1, 2018
+
+@author: ADMIN
+'''
+from lib2to3.pygram import python_grammar
+print("Samir")
+num1 = int(input("Enter number"))
+print(num1)
+
+print(python_grammar)

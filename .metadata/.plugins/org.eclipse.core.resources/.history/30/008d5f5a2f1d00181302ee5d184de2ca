@@ -1,0 +1,8 @@
+'''
+Created on Mar 1, 2018
+
+@author: ADMIN
+'''
+from curses.has_key import python
+from platform import python_version
+print(python_version())
