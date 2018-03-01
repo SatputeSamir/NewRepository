@@ -6,6 +6,7 @@ Created on Mar 1, 2018
 from platform import python_version
 
 print("Samir Satpute")
+print("Super Simple Software")
 print(python_version())
 
 def add(x,y):
